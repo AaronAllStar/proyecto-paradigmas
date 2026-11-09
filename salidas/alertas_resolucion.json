@@ -1,0 +1,38 @@
+{
+  "por_resolucion": {
+    "A FAVOR CLIENTE": {
+      "tiempo_promedio_dias": 15.09,
+      "conteo": 1543
+    },
+    "A FAVOR COMERCIO": {
+      "tiempo_promedio_dias": 15.25,
+      "conteo": 1601
+    },
+    "EN REVISION": {
+      "tiempo_promedio_dias": 15.24,
+      "conteo": 1534
+    }
+  },
+  "por_categoria": {
+    "Crypto": {
+      "tiempo_promedio_dias": 15.13,
+      "conteo": 1042
+    },
+    "Digital Services": {
+      "tiempo_promedio_dias": 15.05,
+      "conteo": 919
+    },
+    "Gaming": {
+      "tiempo_promedio_dias": 15.03,
+      "conteo": 1068
+    },
+    "Retail": {
+      "tiempo_promedio_dias": 15.38,
+      "conteo": 1133
+    },
+    "Travel": {
+      "tiempo_promedio_dias": 15.52,
+      "conteo": 516
+    }
+  }
+}
